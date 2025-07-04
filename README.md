@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xenontech02](https://github.com/xenontech02)
 
-- ⚡ Fun fact [I love to explore new tech](I love to explore new tech)
+- ⚡ Fun fact **I love to explore new tech**
 
 - 📫 How to reach me **xenonshare02@gmail.com**
 
